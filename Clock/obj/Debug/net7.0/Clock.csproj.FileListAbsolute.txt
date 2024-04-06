@@ -1,0 +1,15 @@
+C:\My Stuff\С# - обучение, проекты\Алгоритмы\Угол на часах\Clock\bin\Debug\net7.0\Clock.exe
+C:\My Stuff\С# - обучение, проекты\Алгоритмы\Угол на часах\Clock\bin\Debug\net7.0\Clock.deps.json
+C:\My Stuff\С# - обучение, проекты\Алгоритмы\Угол на часах\Clock\bin\Debug\net7.0\Clock.runtimeconfig.json
+C:\My Stuff\С# - обучение, проекты\Алгоритмы\Угол на часах\Clock\bin\Debug\net7.0\Clock.dll
+C:\My Stuff\С# - обучение, проекты\Алгоритмы\Угол на часах\Clock\bin\Debug\net7.0\Clock.pdb
+C:\My Stuff\С# - обучение, проекты\Алгоритмы\Угол на часах\Clock\obj\Debug\net7.0\Clock.csproj.AssemblyReference.cache
+C:\My Stuff\С# - обучение, проекты\Алгоритмы\Угол на часах\Clock\obj\Debug\net7.0\Clock.GeneratedMSBuildEditorConfig.editorconfig
+C:\My Stuff\С# - обучение, проекты\Алгоритмы\Угол на часах\Clock\obj\Debug\net7.0\Clock.AssemblyInfoInputs.cache
+C:\My Stuff\С# - обучение, проекты\Алгоритмы\Угол на часах\Clock\obj\Debug\net7.0\Clock.AssemblyInfo.cs
+C:\My Stuff\С# - обучение, проекты\Алгоритмы\Угол на часах\Clock\obj\Debug\net7.0\Clock.csproj.CoreCompileInputs.cache
+C:\My Stuff\С# - обучение, проекты\Алгоритмы\Угол на часах\Clock\obj\Debug\net7.0\Clock.dll
+C:\My Stuff\С# - обучение, проекты\Алгоритмы\Угол на часах\Clock\obj\Debug\net7.0\refint\Clock.dll
+C:\My Stuff\С# - обучение, проекты\Алгоритмы\Угол на часах\Clock\obj\Debug\net7.0\Clock.pdb
+C:\My Stuff\С# - обучение, проекты\Алгоритмы\Угол на часах\Clock\obj\Debug\net7.0\Clock.genruntimeconfig.cache
+C:\My Stuff\С# - обучение, проекты\Алгоритмы\Угол на часах\Clock\obj\Debug\net7.0\ref\Clock.dll
